@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "B-batman12thy",
+      "authorName": "djiby thioub",
+      "authorEmail": "thioubdjiby96@gmail.com",
+      "authorUrl": "https://github.com/B-batman12thy"
+    }
+  }
+}
