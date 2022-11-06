@@ -57,9 +57,7 @@ module.exports = class extends CommonGenerator {
          * ```
          */
         // Here we are not overriding this phase and hence its being handled by JHipster
-        return  {
-            askForTshirtSizes: prompts.askForTshirtSizes
-        };
+        return super._initializing();
     }
 
     get prompting() {
